@@ -13,4 +13,4 @@ I used the publicly avaialble ASZED dataset, which contains EEG recordings from 
 
 ## Content
 In this repository, you may find all the relevant coding files.
-I have also included an extensive project report where I explain in detail the process.
+I have also included an extensive project report where I explain the process in detail.
