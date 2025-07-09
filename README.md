@@ -1,6 +1,6 @@
 # Schizophrenia EEG-based classification with Machine Learning
 
-This is a personal project that explores the classification of schizophrenia patients using EEG data through machine learning techniques.
+This is an ongoing personal project (started July 2025) that explores the classification of schizophrenia patients using EEG data through machine learning techniques.
 
 ## Description
 I used the publicly avaialble ASZED dataset, which contains EEG recordings from both schizophrenia patients and healthy controls, with the goal to build models capable of distinguishing between these groups based on their brain activity patterns. To carry this out, I did the following:
